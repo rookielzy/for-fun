@@ -1,0 +1,24 @@
+{
+  "name": "for-fun",
+  "version": "1.0.0",
+  "description": "Just For Fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookielzy/for-fun.git"
+  },
+  "keywords": [
+    "NPM",
+    "ESLint",
+    "Jest"
+  ],
+  "author": "rookielzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rookielzy/for-fun/issues"
+  },
+  "homepage": "https://github.com/rookielzy/for-fun#readme"
+}
