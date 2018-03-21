@@ -3,3 +3,9 @@ function foo () {
 }
 
 foo()
+
+function feature1 () {
+  console.log('feature1 go')
+}
+
+feature1()
